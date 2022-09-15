@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Lato", sans-serif;
+  background-color: rgb(36, 35, 34);
+  background-size: cover;
+}
+
+.clock {
+  height: 100px;
+  width: 300px;
+  margin: auto;
+  margin-top: 400px;
+  box-sizing: border-box;
+  background-color: lightgray;
+  color: rgb(255, 0, 0);
+  display: grid;
+  place-items: center;
+  font-size: 50px;
+  border: 1px solid white;
+  border-radius: 15px;
+}
